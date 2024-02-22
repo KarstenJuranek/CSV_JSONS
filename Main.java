@@ -471,8 +471,8 @@ public class Main
 	
 	public static void main(String[] args)
 	{
-		//JSON();
-		//CSV();
-		//DataNote();
+		JSON();
+		CSV();
+		DataNote();
 	}
 }
